@@ -22,7 +22,7 @@
 
 ###
 
-<h1 align="center">Hi👋, I'am Piyush Yadav</h1>
+<h1 align="center">hey there 👋</h1>
 
 ###
 
@@ -67,5 +67,13 @@
 ###
 
 <img src="https://raw.githubusercontent.com/iampiyush3120/iampiyush3120/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iampiyush3120/iampiyush3120/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iampiyush3120/iampiyush3120/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/iampiyush3120/iampiyush3120/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
