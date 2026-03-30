@@ -22,7 +22,7 @@
 
 ###
 
-<h1 align="center">Hii👋, I am Piyush Yadav</h1>
+<h1 align="center">hey there 👋</h1>
 
 ###
 
