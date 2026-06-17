@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <img src="https://www.linkedin.com/in/piyush-y-b4b95431b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BjP5wTozQQRGlFG5XfTgJfw%3D%3D" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
